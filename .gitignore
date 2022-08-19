@@ -5,3 +5,4 @@ build/
 .ipython/  
 .viminfo
 .bash_history
+.ipynb_checkpoints/
