@@ -4,3 +4,4 @@ build/
 .jupyter/ 
 .ipython/  
 .viminfo
+.bash_history

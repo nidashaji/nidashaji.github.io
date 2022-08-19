@@ -1,0 +1,21 @@
+
+img1:
+  img_path : https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg
+  width : 1669
+  height : 2500
+  tpath : https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg
+  alt : thumbnail
+  caption : Awsome image I created for me and my friends
+  
+img2:
+  img_path : https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg
+  width : 2500
+  height : 1666
+  tpath : https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg
+  alt : thumbnail
+  caption : Some other random image
+  
+# bc : BC, Canada. NIKON CORPORATION, NIKON D850. Elliott Mason. Reflections
+# ann :  Neha Maheen Mahfin, Annapurna Base Camp, Canon, EOS 70D, Sunrise in Annapurna South... Photo Taken from Annapurna Base Camp...
+  
+  
