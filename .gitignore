@@ -1,8 +1,10 @@
 __pycache__/
 build/
 .local/ 
+.vim/ 
 .jupyter/ 
 .ipython/  
 .viminfo
 .bash_history
 .ipynb_checkpoints/
+src

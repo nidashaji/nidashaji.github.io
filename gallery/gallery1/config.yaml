@@ -1,10 +1,24 @@
 
 img1:
-  img_path : /src/ann.jpg
-  caption : Neha Maheen Mahfin, Annapurna Base Camp, Canon, EOS 70D, Sunrise in Annapurna South... Photo Taken from Annapurna Base Camp.
+  img_path : /src/nida_art/Digital_Art/Scholastic.jpg
+  caption : Scholastic
   
 img2:
-  img_path : /src/bc.jpg
-  caption : BC, Canada. NIKON CORPORATION, NIKON D850. Elliott Mason. Reflections
+  img_path : /src/nida_art/Digital_Art/nshaji_C5.jpg
+  caption : TBD caption
   
+img3:
+  img_path : /src/nida_art/Digital_Art/nshaji_B_Stressed_Out.jpg
+  caption : TBD caption
   
+img4:
+  img_path : /src/nida_art/Digital_Art/birthday.jpeg
+  caption : TBD caption
+  
+img5:
+  img_path : /src/nida_art/Digital_Art/gears.jpeg
+  caption : TBD caption
+  
+img6:
+  img_path : /src/nida_art/Digital_Art/nshaji_C2.jpg
+  caption : TBD caption
