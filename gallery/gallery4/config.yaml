@@ -14,3 +14,7 @@ img3:
 img3:
   img_path : /src/nida_art/Oil_Painting/painting_4.jpeg
   caption : TBD caption
+  
+  img3:
+  img_path : /src/nida_art/Oil_Painting/burning_girl.jpeg 
+  caption : TBD caption
