@@ -105,6 +105,37 @@
             flex-wrap: wrap;
           }
 
+          .pswp-gallery5__item {
+            margin: 0 4px 4px 0;
+          }
+          
+          .pswp-gallery5__item img {
+            display: block;
+          }
+          .pswp-gallery5 {
+            max-width: 850px;
+            padding: 0 50px 50px;
+            background: #eee;
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+          }
+
+
+          .videoSlide {
+              width: 100%;
+              height: 100%;
+              text-align: center;
+              display: table;
+          }
+          .videoSlide .videoSlideInner {
+              height: 100%;
+              display: table-cell;
+              vertical-align: middle;
+          }
+          .videoSlide .videoSlideInner video {
+              max-width: 100%;
+          }
         </style>
         <!-- include JS -->
         
@@ -115,6 +146,8 @@
         <script src="gallery3.js" type="module"> </script>
 
         <script src="gallery4.js" type="module"> </script>
+
+        <script src="gallery5.js" type="module"> </script>
 
     </head>
     <body id="page-top">
@@ -348,10 +381,23 @@
                         </div>
                     </div>
                     <h3 class="text-center text-secondary pb-2">
-                        Oil Painting
+                        Animation
                     </h3>
                     <div class="pswp-gallery4" id="gallery4">
                         <div class="pswp-gallery4__item" id="img1">
+                            <a data-pswp-height="0" data-pswp-width="0" href="gallery/gallery5/CsssaAnimation.m4v" target="_blank">
+                                <img alt="Thumbnail" src="gallery/gallery5/CsssaAnimation_resized.jpg"/>
+                            </a>
+                            <div class="pswp-caption-content">
+                                TBD caption
+                            </div>
+                        </div>
+                    </div>
+                    <h3 class="text-center text-secondary pb-2">
+                        Oil Painting
+                    </h3>
+                    <div class="pswp-gallery5" id="gallery5">
+                        <div class="pswp-gallery5__item" id="img1">
                             <a data-pswp-height="2123" data-pswp-width="2701" href="gallery/gallery4/painting_wm.jpg" target="_blank">
                                 <img alt="Thumbnail" src="gallery/gallery4/painting_resized.jpg"/>
                             </a>
@@ -359,7 +405,7 @@
                                 TBD caption
                             </div>
                         </div>
-                        <div class="pswp-gallery4__item" id="img2">
+                        <div class="pswp-gallery5__item" id="img2">
                             <a data-pswp-height="2563" data-pswp-width="3243" href="gallery/gallery4/painting_2_wm.jpg" target="_blank">
                                 <img alt="Thumbnail" src="gallery/gallery4/painting_2_resized.jpg"/>
                             </a>
@@ -367,7 +413,7 @@
                                 TBD caption
                             </div>
                         </div>
-                        <div class="pswp-gallery4__item" id="img3">
+                        <div class="pswp-gallery5__item" id="img3">
                             <a data-pswp-height="3822" data-pswp-width="2866" href="gallery/gallery4/burning_girl_wm.jpg" target="_blank">
                                 <img alt="Thumbnail" src="gallery/gallery4/burning_girl_resized.jpg"/>
                             </a>
