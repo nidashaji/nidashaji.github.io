@@ -26,3 +26,7 @@ img3:
 img4:
   img_path : /src/nida_art/Charcoal/drawing_4.jpeg
   caption : TBD caption
+  
+img11:
+  img_path : /src/nida_art/Charcoal/charcoal_drawing_cat.jpg
+  caption : TBD caption
