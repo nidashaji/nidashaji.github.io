@@ -7,14 +7,14 @@ img2:
   img_path : /src/nida_art/Oil_Painting/painting_2.jpeg
   caption : TBD caption
   
-img3:
-  img_path : /src/nida_art/Oil_Painting/painting_3.jpeg
-  caption : TBD caption
-
-img3:
+img4:
   img_path : /src/nida_art/Oil_Painting/painting_4.jpeg
   caption : TBD caption
   
-  img3:
+img5:
   img_path : /src/nida_art/Oil_Painting/burning_girl.jpeg 
+  caption : TBD caption
+  
+img6:
+  img_path : /src/nida_art/Oil_Painting/op_ear.jpg 
   caption : TBD caption
