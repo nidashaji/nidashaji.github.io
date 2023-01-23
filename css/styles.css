@@ -11441,6 +11441,11 @@ html {
   font-size: 2.0rem;
   line-height: 2.0rem;
 }
+
+.masthead-heading:hover {
+  color: blue;
+}
+
 .masthead .masthead-subheading {
   font-size: 1.0rem;
 }
