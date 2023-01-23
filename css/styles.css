@@ -493,6 +493,7 @@ progress {
   font-size: 1.25rem;
   font-weight: 300;
   color: black;
+  line-height: 130%;
 }
 
 .display-1 {
